@@ -1,0 +1,15 @@
+---
+title: "Complementary data of The Influence of Visual Context on Auditory Distance Perception: A Comparison Between Real and Virtual Visual Environments - Cervino et al. 2025"
+
+author: 
+ - name: Joaquin Cervino
+ - name: Esteban Lombera
+ - name: Laura Berenice Piceda
+ - name: Manuel Eguia
+ - name: Ramiro Vergara
+---
+
+
+### Data availability
+
+Download the experiment data [here](study/data/data.zip)

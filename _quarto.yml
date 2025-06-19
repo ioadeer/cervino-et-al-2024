@@ -1,0 +1,50 @@
+project:
+  type: website
+
+website:
+  title: "Complementary data- Cervino et al 2025"
+  sidebar:
+    style: "docked"
+    contents:
+      - text: "Introduction"
+        href: "index.qmd"
+      - section: "Experiment 1"
+        contents: 
+          - "study/Experiment-1/ADP/ADP-Experiment-1.qmd"
+          - "study/Experiment-1/VDP/VDP-Experiment-1.qmd"
+          - "study/Experiment-1/Correlation/Correlation-Analysis-Experiment-1.qmd"
+          - "study/Experiment-1/main-figure/main-figure.qmd"
+          
+      - section: "Experiment 2"
+        contents: 
+          - "study/Experiment-2/ADP/ADP-Experiment-2.qmd"
+          - "study/Experiment-2/VDP/VDP-Experiment-2.qmd"
+          - "study/Experiment-2/Correlation/Correlation-Analysis-Experiment-2.qmd"
+          - "study/Experiment-2/main-figure/main-figure.qmd"
+          
+      - section: "Experiment 3"
+        contents: 
+          - "study/Experiment-3/ADP/ADP-Experiment-3.qmd"
+          - "study/Experiment-3/VDP/VDP-Experiment-3.qmd"
+          - "study/Experiment-3/Correlation/Correlation-Analysis-Experiment-3.qmd"
+          - "study/Experiment-3/main-figure/main-figure.qmd"
+          
+      - section: "Experiment 4"
+        contents: 
+          - "study/Experiment-4/ADP/ADP-Experiment-4.qmd"
+          - "study/Experiment-4/VDP/VDP-Experiment-4.qmd"
+          - "study/Experiment-4/Correlation/Correlation-Analysis-Experiment-4.qmd"
+          - "study/Experiment-4/main-figure/main-figure.qmd"
+
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
