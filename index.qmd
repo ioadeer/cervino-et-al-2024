@@ -13,3 +13,7 @@ author:
 ### Data availability
 
 Download the experiment data [here](study/data/data.zip)
+
+### Materials
+
+Virtual environments used in the experiment can be seen [here](https://photos.app.goo.gl/a4d4Z8fH8FVFPSFa8)
